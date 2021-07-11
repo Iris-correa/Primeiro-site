@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+#contato
+{
+    font-size: 13px;
+}
+
+.principal
+{
+    width: 900px;
+}
+
+.menu
+{
+    background-color: #c5c5b2;
+   
+    padding: 18px;
+}
+.conteudo
+{
+    background-color: #e8e8e8;
+    padding: 10px;
+}
+.title
+{
+    color: grey;
+    font-size: 1.2em;
+}
+.direitos
+{
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+    width: 900px;
+}
+.imagens
+{
+    border: 10px solid rgb(156, 155, 155);
+    width: 640px;
+}
+a
+{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+p
+{
+    text-align: justify;
+}
+body
+{
+  font-size: 16px;
+  font-family:Arial, Helvetica, sans-serif ;
+background-image: url(imagens/fundo.png);
+}
